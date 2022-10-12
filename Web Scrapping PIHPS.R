@@ -7,8 +7,8 @@ library(stringr)
 library(rebus)
 library(dplyr)
 
-wd_primary = "E:/Kerja/Asisten Akademik/GIZ/PIHPS"
-wd_backup = 'F:/Backup Fawdy/Kerja/Asisten Akademik/GIZ/PIHPS'
+wd_primary = ""
+wd_backup = ''
 setwd(wd_backup)
 
 # Function to scrap PIHPS
